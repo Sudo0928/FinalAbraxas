@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Asset Store/kiyoung/StartMenu.unity
+    guid: 0c0cf36e9ef04db4681405f40bfcdfc7
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 814eb9ced19284649ab5f49c462d1da1
+  - enabled: 1
+    path: Assets/Scenes/newhos.unity
+    guid: 4ebd52a09406c934397f53e44bd81e36
+  - enabled: 1
+    path: Assets/Scenes/ThanksToPlay.unity
+    guid: d21e1c66a0719364e9697ff2f74c7c3e
+  - enabled: 1
+    path: Assets/Scenes/City.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}

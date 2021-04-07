@@ -1,0 +1,2108 @@
+fileFormatVersion: 2
+guid: c4993c75387babf48931672d91b95545
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3341764288937869251
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_0
+  - first:
+      213: -8538641934723243004
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_1
+  - first:
+      213: 7118960360561382342
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_2
+  - first:
+      213: 8150663701034446496
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_3
+  - first:
+      213: 8041924673899696386
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_4
+  - first:
+      213: 2084869625248849992
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_5
+  - first:
+      213: 4389035311417303897
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_6
+  - first:
+      213: 1035772031222951931
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_7
+  - first:
+      213: 1110307836104475261
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_8
+  - first:
+      213: -8870213583756995889
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_9
+  - first:
+      213: 208954996334278949
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_10
+  - first:
+      213: 8191783852338008815
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_11
+  - first:
+      213: 4207954560421257947
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_12
+  - first:
+      213: 8893873916239102753
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_13
+  - first:
+      213: -2056375060025322969
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_14
+  - first:
+      213: 5026816248297927594
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_15
+  - first:
+      213: 489017418062965187
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_16
+  - first:
+      213: 2907525336715778634
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_17
+  - first:
+      213: -1466696378149073376
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_18
+  - first:
+      213: -2690752182828105361
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_19
+  - first:
+      213: -2917325036867597362
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_20
+  - first:
+      213: -1688099521281785395
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_21
+  - first:
+      213: -8215212470457280739
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_22
+  - first:
+      213: -3851422666943165051
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_23
+  - first:
+      213: 4159512561678028785
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_24
+  - first:
+      213: -6561634175178817434
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_25
+  - first:
+      213: -2974434789548515857
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_26
+  - first:
+      213: -1858558088189142325
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_27
+  - first:
+      213: -8917422841410584122
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_28
+  - first:
+      213: 7244230275735672015
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_29
+  - first:
+      213: -5746488319998510555
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_30
+  - first:
+      213: 5004977047904800700
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_31
+  - first:
+      213: 5712226774655852414
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_32
+  - first:
+      213: -6130217932958895710
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_33
+  - first:
+      213: 4894824015227161978
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_34
+  - first:
+      213: 3843501734766423566
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_35
+  - first:
+      213: 7785067099714258099
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_36
+  - first:
+      213: 5873405694561669115
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_37
+  - first:
+      213: 6201150037784676578
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_38
+  - first:
+      213: 7687266436002802612
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_39
+  - first:
+      213: -7978017923550394390
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_40
+  - first:
+      213: -7185077275747350603
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_41
+  - first:
+      213: 5649760715031534009
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_42
+  - first:
+      213: -2102368219612737531
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_43
+  - first:
+      213: 7356504349466505884
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_44
+  - first:
+      213: -4868057524317698786
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_45
+  - first:
+      213: -8998674873534326039
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_46
+  - first:
+      213: 6436789023308079272
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_47
+  - first:
+      213: 6234254354666326812
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_48
+  - first:
+      213: 419159071717267153
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_49
+  - first:
+      213: -7356041156918615464
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_50
+  - first:
+      213: 6043761257784759629
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_51
+  - first:
+      213: -5445123765973715415
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_52
+  - first:
+      213: -5701499826579541524
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_53
+  - first:
+      213: 3772082681563703455
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_54
+  - first:
+      213: 6274155542362690159
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_55
+  - first:
+      213: -3970554376911113602
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_56
+  - first:
+      213: -2324476835265959850
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_57
+  - first:
+      213: 5626092871541999307
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_58
+  - first:
+      213: -7047102150110808538
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_59
+  - first:
+      213: 9129013141631853527
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_60
+  - first:
+      213: 3930163546055400479
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_61
+  - first:
+      213: -2409591664830070788
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_62
+  - first:
+      213: -4123199048115589247
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_63
+  - first:
+      213: -6030591403894782729
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_64
+  - first:
+      213: -8922165022389314250
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_65
+  - first:
+      213: 4186103395424849569
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_66
+  - first:
+      213: -4346592200023158580
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_67
+  - first:
+      213: -7999047447273927447
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_68
+  - first:
+      213: -7748746395835089177
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_69
+  - first:
+      213: -4403898967641957871
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_70
+  - first:
+      213: -1007187353626731798
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_71
+  - first:
+      213: 1794416287514131170
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_72
+  - first:
+      213: 7990274529875842895
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_73
+  - first:
+      213: -6018358450817557797
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_74
+  - first:
+      213: -5182282353740981002
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_75
+  - first:
+      213: -2836253877035398850
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_76
+  - first:
+      213: 7612947059117482780
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_77
+  - first:
+      213: -7789002680437294334
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_78
+  - first:
+      213: -4999095237595243264
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_79
+  - first:
+      213: -2925785337326312414
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_80
+  - first:
+      213: 6029405663301439499
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_81
+  - first:
+      213: -4758306210354590549
+    second: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_82
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_0
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 128
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf3a355ae4506e20800000000000000
+      internalID: 3341764288937869251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 128
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40421986666a08980800000000000000
+      internalID: -8538641934723243004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 131
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c31955eab0abc260800000000000000
+      internalID: 7118960360561382342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_3
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 131
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae24d7b379fc1170800000000000000
+      internalID: 8150663701034446496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 96
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2019d3a02e7aa9f60800000000000000
+      internalID: 8041924673899696386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 99
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840a5f7c0e1feec10800000000000000
+      internalID: 2084869625248849992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 99
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953aca39c5cf8ec30800000000000000
+      internalID: 4389035311417303897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 99
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff2455bc2dcf5e00800000000000000
+      internalID: 1035772031222951931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 99
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d720752281b986f00800000000000000
+      internalID: 1110307836104475261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 99
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2d152fdbba6e480800000000000000
+      internalID: -8870213583756995889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 98
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5293c8a467b56e200800000000000000
+      internalID: 208954996334278949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 98
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2536303001fa170800000000000000
+      internalID: 8191783852338008815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 98
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2e4e4c068a56a30800000000000000
+      internalID: 4207954560421257947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 99
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1234b8e74336d6b70800000000000000
+      internalID: 8893873916239102753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 98
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722d73e27c94673e0800000000000000
+      internalID: -2056375060025322969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 99
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3b5fe9eb6d2c540800000000000000
+      internalID: 5026816248297927594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 98
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c92f9430c659c600800000000000000
+      internalID: 489017418062965187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_17
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 97
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a546693ea995820800000000000000
+      internalID: 2907525336715778634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 98
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e821b3a6f35abe0800000000000000
+      internalID: -1466696378149073376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 96
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f618ceb552788aad0800000000000000
+      internalID: -2690752182828105361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb472be5549387d0800000000000000
+      internalID: -2917325036867597362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc10e78ed6aa298e0800000000000000
+      internalID: -1688099521281785395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 63
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17d800c8c3bdfd80800000000000000
+      internalID: -8215212470457280739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d07f87d7ffc8ac0800000000000000
+      internalID: -3851422666943165051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 63
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff089503ae89b930800000000000000
+      internalID: 4159512561678028785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 63
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66047629b7460f4a0800000000000000
+      internalID: -6561634175178817434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 63
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed9561715fa8b6d0800000000000000
+      internalID: -2974434789548515857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_27
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 63
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca9e0f04431536e0800000000000000
+      internalID: -1858558088189142325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_28
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 63
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c184c91c23fe3480800000000000000
+      internalID: -8917422841410584122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4da50ed0da88460800000000000000
+      internalID: 7244230275735672015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52abe84b15f5040b0800000000000000
+      internalID: -5746488319998510555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 31
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf49598b10457540800000000000000
+      internalID: 5004977047904800700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 31
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f56d3acf7e54f40800000000000000
+      internalID: 5712226774655852414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 31
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1714ee4471deaa0800000000000000
+      internalID: -6130217932958895710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 30
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d8aa90288ede340800000000000000
+      internalID: 4894824015227161978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 31
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ea95ac67cd65530800000000000000
+      internalID: 3843501734766423566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b48c07b74d1a0c60800000000000000
+      internalID: 7785067099714258099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_37
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffca1e4c57828150800000000000000
+      internalID: 5873405694561669115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 31
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e84e01ba19ee0650800000000000000
+      internalID: 6201150037784676578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 31
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbeabb3818aeaa60800000000000000
+      internalID: 7687266436002802612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_40
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 31
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae74417c7f2684190800000000000000
+      internalID: -7978017923550394390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_41
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 31
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7095f294a794c90800000000000000
+      internalID: -7185077275747350603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_42
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 30
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b95965cf6bf76e40800000000000000
+      internalID: 5649760715031534009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50099ea3e33e2d2e0800000000000000
+      internalID: -2102368219612737531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92319ababd871660800000000000000
+      internalID: 7356504349466505884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1540e4497f217cb0800000000000000
+      internalID: -4868057524317698786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_46
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 13
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ead0c921e84e1380800000000000000
+      internalID: -8998674873534326039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_47
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0696c5381145950800000000000000
+      internalID: 6436789023308079272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b81591e45848650800000000000000
+      internalID: 6234254354666326812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_49
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 13
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6171674f621d500800000000000000
+      internalID: 419159071717267153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85266b0ba871ae990800000000000000
+      internalID: -7356041156918615464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 13
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45578db7d0cfd350800000000000000
+      internalID: 6043761257784759629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 13
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926791bc8c80f64b0800000000000000
+      internalID: -5445123765973715415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce176c59d1430e0b0800000000000000
+      internalID: -5701499826579541524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_54
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 13
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98e10aa631295430800000000000000
+      internalID: 3772082681563703455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 13
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6293105937421750800000000000000
+      internalID: 6274155542362690159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_56
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 13
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7237d2c4d1c5e8c0800000000000000
+      internalID: -3970554376911113602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_57
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658295942accdbfd0800000000000000
+      internalID: -2324476835265959850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_58
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 13
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc64e9988a5e31e40800000000000000
+      internalID: 5626092871541999307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_59
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 13
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626f0ce7ee9a33e90800000000000000
+      internalID: -7047102150110808538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_60
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3e6d0b515c0be70800000000000000
+      internalID: 9129013141631853527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_61
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c52d71ceeba8630800000000000000
+      internalID: 3930163546055400479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_62
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffbf0cb5296f8ed0800000000000000
+      internalID: -2409591664830070788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_63
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 13
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f67d6bf4477c6c0800000000000000
+      internalID: -4123199048115589247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_64
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4c351d1190f4ca0800000000000000
+      internalID: -6030591403894782729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_65
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 13
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd11d0f2a1e2480800000000000000
+      internalID: -8922165022389314250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_66
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 13
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeca55fbd6081a30800000000000000
+      internalID: 4186103395424849569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_67
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0d22e5c6dcda3c0800000000000000
+      internalID: -4346592200023158580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_68
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 13
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec0ebb3abcadf090800000000000000
+      internalID: -7999047447273927447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_69
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 10
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee39a5253ce67490800000000000000
+      internalID: -7748746395835089177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_70
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11addf6c83532e2c0800000000000000
+      internalID: -4403898967641957871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_71
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 13
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea10dc2070c502f0800000000000000
+      internalID: -1007187353626731798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_72
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 10
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea74743b1c07e810800000000000000
+      internalID: 1794416287514131170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_73
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 10
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47d913c95823ee60800000000000000
+      internalID: 7990274529875842895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_74
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda9c0820ee7a7ca0800000000000000
+      internalID: -6018358450817557797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_75
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 13
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc5e7bf7a5d418b0800000000000000
+      internalID: -5182282353740981002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_76
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 13
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e390b7e302a93a8d0800000000000000
+      internalID: -2836253877035398850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_77
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 10
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c136d80e30f96a960800000000000000
+      internalID: 7612947059117482780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_78
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 13
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b38fd7457e7e390800000000000000
+      internalID: -7789002680437294334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_79
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dd9c42e55af9ab0800000000000000
+      internalID: -4999095237595243264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_80
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2246e97bcb58567d0800000000000000
+      internalID: -2925785337326312414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_81
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 13
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b009fcf6180cca350800000000000000
+      internalID: 6029405663301439499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Rune Factory 2 A Fantasy Harvest Moon - Emotion Bubbles_82
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 10
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac874756b917fdb0800000000000000
+      internalID: -4758306210354590549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c41f2fcc7a2fc27489c3730ab8c97326
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
